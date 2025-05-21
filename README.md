@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chetan Nahar</h1>
-<h3 align="center">A evil human, who would certainly like to take over the world under his dictatorship regime if he gets any chance.</h3>
 
-- 🔭 I’m currently working on **frappe.**
-
-- 🌱 I’m currently learning **Frappe, ERPNext and other cool stuff.**
+- 🌱 I’m currently working as consultant for **Frappe, ERPNext and other business systems.**
 
 - 📫 How to reach me **chetan2nahar@gmail.com**
 
